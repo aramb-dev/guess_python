@@ -1,11 +1,4 @@
 #!/usr/bin/python3
-#
-# guess.py - guessing game in python
-#
-# This is written to demonstrate this language versus the same program 
-# written in other languages.
-#
-# 26-Oct-2003	Brendan Gregg	Created this.
 
 import random
 
